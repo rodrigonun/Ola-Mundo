@@ -1,2 +1,4 @@
-# Ola Mundo
- repositorio curso github youtube RGuanabara
+# Olá, Mundo!
+ repositorio curso github youtube GustavoGuanabara
+
+ Repositorio criado durante uma aula ao vivo
